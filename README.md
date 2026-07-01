@@ -1,6 +1,6 @@
 # QuantumCalc: Tactical Computation System
 
-**Author:** TEDAC(ODUKOYA IBUKUNOLUWA EMMANUEL)
+**Author:** TEDAC - ODUKOYA IBUKUNOLUWA EMMANUEL
 
 A native Android application wrapper built around an optimized, custom calculation interface. The interface features an immersive, dark-themed design optimized for high-performance visual clarity.
 
