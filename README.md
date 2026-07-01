@@ -1,5 +1,7 @@
 # QuantumCalc: Tactical Computation System
 
+**Author:** TEDAC(ODUKOYA IBUKUNOLUWA EMMANUEL)
+
 A native Android application wrapper built around an optimized, custom calculation interface. The interface features an immersive, dark-themed design optimized for high-performance visual clarity.
 
 ## 🛠️ Project Architecture
@@ -11,4 +13,3 @@ A native Android application wrapper built around an optimized, custom calculati
 * **Target Build Environment:** Android Studio
 * **UI Components:** Material Design components configured via the application's native theme styles.
 * **Primary Target Branch:** `master` (Contains the complete source code and working assets)
-*
